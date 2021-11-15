@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+Samantha Lin
 1. Within a Github action that runs whenever code is pushed 
 2. No, you would use unit testing
 3. No, because this involves sending the message and then checking if the message went through and that it arrived to the recipent. This isn't a single block of code and requires checking several layers of the application at once.
